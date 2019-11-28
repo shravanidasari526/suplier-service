@@ -27,6 +27,7 @@ import com.suplier.api.service.SuplierService;
 @RestController
 @RequestMapping("/suplier")
 public class SupliersController {
+// From Suplier controller
 	@Autowired
 	private SuplierService suplierService;
 	
